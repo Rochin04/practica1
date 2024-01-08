@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DnguK//WryRX+h1ty5vO66EpDeX3oXMnWGzdJ4DZp8QvcRsUwwzHv+2uGqvGJ4jtFT0BASxixAOiDrtXXgVOCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd06\\Downloads\\examenrrds\\Practica1_RERM\\Practica1_RERM.iOS\\Practica1_RERM.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd06\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd06\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cd06\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

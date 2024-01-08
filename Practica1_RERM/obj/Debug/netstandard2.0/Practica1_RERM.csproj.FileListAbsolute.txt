@@ -1,0 +1,15 @@
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\bin\Debug\netstandard2.0\Practica1_RERM.deps.json
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\bin\Debug\netstandard2.0\Practica1_RERM.dll
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\bin\Debug\netstandard2.0\ref\Practica1_RERM.dll
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\bin\Debug\netstandard2.0\Practica1_RERM.pdb
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\Practica1_RERM.csproj.AssemblyReference.cache
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\Practica1_RERM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\Practica1_RERM.AssemblyInfoInputs.cache
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\Practica1_RERM.AssemblyInfo.cs
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\Practica1_RERM.csproj.CoreCompileInputs.cache
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\Practica1_RERM.dll
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\refint\Practica1_RERM.dll
+C:\Users\cd06\Downloads\examenrrds\Practica1_RERM\Practica1_RERM\obj\Debug\netstandard2.0\Practica1_RERM.pdb
